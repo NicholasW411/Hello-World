@@ -2,11 +2,11 @@
 
 ## 1. *Project Title*
 
-*Hello World Sample* 
+*Hello World Test* 
 
 ## 2. Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+This is me practicing my GitHub skills *which are still developing*.
 ~~The world is flat.~~ 
 
 ## 3. Methodologies 
