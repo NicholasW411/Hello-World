@@ -24,13 +24,11 @@ This is me practicing my GitHub skills *which are still developing*.
 
 ## 5. Additional Documentation
 
-> No additional documentation at this time.  Here is some **BOLD** text 
+>No additional documentation 
 > This is very dissapointing 😞
 
 
-## 6. Versioning
-
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+## 6. Definition
 
 Insanity
 : doing the same thing over and over again expecting a different result 
