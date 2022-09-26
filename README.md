@@ -15,6 +15,7 @@
 ## 2. Description
 
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+~~The world is flat.~~ 
 
 ## 3. How to Run Program 
 
@@ -43,6 +44,7 @@ Hello_World/
 ## 5. Additional Documentation
 
 > No additional documentation at this time.  Here is some **BOLD** text 
+> This is very dissapointing 😞
 
 
 ## 6. Versioning
