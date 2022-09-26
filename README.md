@@ -40,9 +40,9 @@ Hello_World/
 [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
 
-## 5. > Additional Documentation
+## 5. Additional Documentation
 
-No additional documentation at this time.  Here is some **BOLD** text 
+> No additional documentation at this time.  Here is some **BOLD** text 
 
 
 ## 6. Versioning
