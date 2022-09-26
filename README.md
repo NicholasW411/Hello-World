@@ -18,7 +18,7 @@ Practice using GitHub by creating a sample repository. Make sure you add a descr
 
 ## 4. James Webb Space Telescope Images 
 
-[JSWT Images]([https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data](https://webbtelescope.org/resource-gallery/images?Collection=First%25Images))
+[JSWT Images]([https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data](https://webbtelescope.org/resource-gallery/images?Collection=First%25Images)
 
 
 ## 5. Additional Documentation
