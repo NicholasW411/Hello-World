@@ -8,7 +8,7 @@
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
+## *Project Title*
 
 *Hello World Sample* 
 
