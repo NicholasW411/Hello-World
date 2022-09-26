@@ -9,16 +9,11 @@
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 ~~The world is flat.~~ 
 
-## 3. How to Run Program 
+## 3. Methodologies 
 
-Explain here how you would run the program and what files need to be available. 
-```text
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+- Linear Regression
+- Multivariable Regression
+- Goodness of Fit
    
 ```
 
