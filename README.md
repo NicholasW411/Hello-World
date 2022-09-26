@@ -7,6 +7,7 @@
 ## 2. Description
 
 This is me practicing my GitHub skills *which are still developing*.
+
 ~~The world is flat.~~ 
 
 ## 3. Methodologies 
